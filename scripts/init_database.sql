@@ -32,11 +32,11 @@ USE DataWarehouse;
 GO
 
 -- Create Schemas
-CREATE SCHEMA bronze;
+CREATE SCHEMA Bronze;
 GO
 
-CREATE SCHEMA silver;
+CREATE SCHEMA Silver;
 GO
 
-CREATE SCHEMA gold;
+CREATE SCHEMA Gold;
 GO
